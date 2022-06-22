@@ -28,5 +28,4 @@ abstract class RestLoginController extends KumbiaRest {
     final protected function finalize() {
         
     }
-
 }
